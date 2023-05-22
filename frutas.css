@@ -1,0 +1,54 @@
+/* Estilo para a classe fruta */
+.laranja {
+    background-color: #FF6600; /* Cor de fundo */
+    color: #FFD700; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do Texto */
+}
+.abacaxi {
+    background-color: #FFD700; /* Cor de fundo */
+    color: #006400; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do Texto */
+}
+.uva {
+    background-color: #9B4FCC; /* Cor de fundo */
+    color: #ECC70E; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do Texto */
+}
+
+/* EStilo para o texto principal */
+h2 {
+    font-size: 50px; /* Tamanho da fonte */
+    text-align: center; /* Centralizar o texto */
+}
+
+/* Estilo para a imagem */
+img {
+    display: block;
+    margin: 0 auto; /* Centralizar a imagem */
+    border-radius: 90%; /* Deixar a imagem redonda */
+    height: 400px;
+    width: 400px;
+}
+
+/* Estilo para a lista de benefícios */
+ul{
+    list-style-type: disc; /* Estilo de marcadores com discos */
+    margin-left: 20px; /* Recuo à esquerda da lista */
+}
+
+/* Estilo para os itens da lista */
+li {
+    font-size: 18px; /* Tamanho da fonte */
+}
+
+/* Estilo para o parágrafo */
+p{
+    font-size: 20px; /* Tamanho da fonte */
+    text-align: center; /* Centralizar o texto */
+    padding: 20px; /* Espaçamento interno */
+    border: 1px solid #000; /* Borda sólida de 1 pixel */
+    display: inline-block; /* Exibir em linha e permitir definição de largura e altura */
+    margin-left: 100px; /* Centralizar horizontalmente */
+    margin-right: 400px; 
+    margin-top: 200px;
+}
